@@ -1,19 +1,20 @@
 # source_one
 Open Source FPV Drone Frame project initiated by Team BlackSheep
-[<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wallpaper/source_one_small.png" width="800">](https://github.com/tbs-trappy/source_one/blob/master/photos/wallpaper/source_one.png)
 
 # About SOURCE ONE
 ## The idea
 The SOURCE ONE is the first of its kind, open source collaborative frame project. It empowers the community to integrate best practices and current trends into a continuously manufactured FPV frame. The price, documentation and compatibility puts it on track to be the most accessible frame for newcomers and professionals alike.
 
-<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/source_one_v0.2_ghost.jpg" width="800">
+## The Remix
+The SOURCE ONE REMIX is a "Top Down" variant of the original SOURCE ONE V3. 
+Most 3D printed parts should fit. 
 
 ## Frame specifications
 * Wheelbase 5": 226mm
 * Wheelbase 6": 263mm
 * Wheelbase 7": 300mm
-* Top plate: 2mm
-* Bottom plate 3mm
+* Top plate: 3mm
+* Bottom plate 2mm
 * Standoff height: 30mm
 * Arm thickness 5": 4mm
 * Arm thickness 6": 4mm
@@ -25,7 +26,7 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 
 ## Hardware
 * 20x M3x10 allen screw
-*  4x M3x14 allen screw
+*  4x M3x12 countersunk head screw
 *  8X OD 5mm M3 30mm standoff
 *  8x M3 press insert nut
 
@@ -38,23 +39,6 @@ The SOURCE ONE is the first of its kind, open source collaborative frame project
 
 Please use the tag "sourceone" when uploading files to thingiverse.com
 
-## Where to buy
-* [www.team-blacksheep.com](https://team-blacksheep.com/products/prod:source_one_5in)
-* [www.racequadgear.de](https://www.racequadgear.de/TBS-SOURCE-ONE-5)
-* [www.n-factory.de](https://n-factory.de/TBS-SOURCE-ONE-5)
-* [www.redbee.de](https://redbee.de/TBS-Source-ONE-5-VXXX)
-* [www.defiancerc.com](https://www.defiancerc.com/products/tbs-source-one-5-v0-11)
-* [www.ka-nickel.eu](https://ka-nickel.eu/produkt/tbs-source-one/)
-* [www.phaserfpv.com.au](https://www.phaserfpv.com.au/products/tbssourceone5framekitv011)
-* [www.multirotorshop.com](https://www.multirotorshop.com.au/product/tbs-source-one-v0-2-5inch/)
-* [www.shop.brickracing.com](https://shop.brickracing.com/TBS-Source-One-V0.2-drone-frame)
-* [www.skanehobby.se](https://www.skanehobby.se/shop/tbs-source-one-v0-2/)
-* [www.juampifpv.com](https://www.juampifpv.com/index.php?pagina=detalle&idp=403)
-* [www.killadrones.co.nz](https://www.killadrones.co.nz/store/TBS-Source-One-5-Inch-Frame-p137993332)
-* [www.quadjunkie.co.nz](https://quadjunkie.co.nz/product-category/racing-freestyle-frames/tbs-source-one/)
-* [www.drone-fpv-racer.com](https://www.drone-fpv-racer.com/en/dfr-source-one-5-frame-v3-3579.html)
-* open [issue](https://github.com/tbs-trappy/source_one/issues/new) if you want your shop added
-
 ## Where to buy 6 inch arms
 * [www.carbon-posten.de](https://www.carbon-posten.de/epages/62822482.sf/sec0a7379183d/?ObjectPath=/Shops/62822482/Products/CP-TBS-SO-Arm6) 4mm and 5mm carbon
 
@@ -63,18 +47,6 @@ Please use the tag "sourceone" when uploading files to thingiverse.com
 Here is a list of recommended 3D Printing services who are sharing their files under the GPL license (OpenSource). 
 * [3dmatisse USA](http://bit.ly/3dmatisse_USA)
 * [bmc3d.co](https://bmc3d.co/collections/all/source-one)
-
-## Compatibility
-
-| Part          |           v0.1|          v0.11|           v0.2|                     v3|
-| ------------- | ------------- | ------------- | ------------- | -------------         |
-| topplate      |fits only v0.1   |               |                       |fits all lower versions|
-| bottompate    |fits only v0.1   |               |fits all lower versions|fits only v3   |
-| arms          |                 |               |                       |fits all lower versions               |
-| centerplate   |fits only v0.1   |               |fits  v0.11 and v0.2   |fits only v3   |
-| camplates     |fits only v0.1   |               |                       |fits all lower versions|
-| battery pad   |no pad available |               |fits all lower versions|fits only v3   |
-
 
 ## Changelog
 
@@ -89,41 +61,6 @@ Here is a list of recommended 3D Printing services who are sharing their files u
 
 that's all changes on the Carbon and the BatteryPad. For the guys that want to mount the Battery on the bottom, i made a small 3D-batterystrap mount, that also gives the battery a flat mounting option, cause of the swap of the Center and Bottom plate. All other 3D-Printed parts will fit the Version 0.3.
 
-
-### SourceOne v0.2
-
-<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_0.2_1.jpg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_0.2_2.jpg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_0.2_3.jpg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_0.2_4.jpg" width="350"> 
-
-* top plate: new design pattern
-* top plate: wider battery strap slots
-* top plate: removed indentation near the second spacer row
-* top plate: ziptie holes for RX Antennas
-* center plate: ziptie holes for securing battery cable
-* cam plate: new design
-* added slots for MicroCam metal brackets
-* bottom plate: micro cam bracket mounting slots
-* bottom plate: 20x20 VTX stack holes
-* 20x20 FC support
-* arms: better motor protection
-* arms: added 6 inch arms
-* bottom battery mount slots for 20mm straps
-* Impulse RC Wolf PDB support
-* added silicone/foam battery pads (top & bottom)
-
-#### compatibility
-We changed the camera plate. Therefore topplate and bottomplate are not compatible with v0.11. Amrs and centerplate is compatible with v0.11
-
-### SourceOne v0.11
-* added press nuts
-* define project leads and github commit rules
-* define folder structure for acessories, variants, etc.
-* define responsible people for maintaining manual, github website, graphics
-
-### SourceOne v0.1
-
-<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_1_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_2_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_3_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_4_v0.1.jpeg" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/SOURCE_ONE_7in_v0.1.jpeg" width="350">
-
-* initial release from TBS
 
 ## Project license
 The frame files are released under GNU Public License (GPL) V3. More information here: https://www.gnu.org/licenses/gpl-3.0.en.html 
